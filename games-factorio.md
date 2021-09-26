@@ -104,3 +104,6 @@ Depot Logic
 * Math: Takes in green wire from global network. Add yellow * + 0. Without this circuit, the train calculates the path to the Fulfillment train stop before the stop gets enabled, so skips right past it. Basically adds a delay so stop is enabled before pathing.
 * Train Stop:
 	* Send to train: Sends available train loads to train
+
+# Expensive mode
+* https://forums.factorio.com/viewtopic.php?t=48961
