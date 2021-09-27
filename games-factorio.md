@@ -1,9 +1,10 @@
 # Factorio
-## Sites
-[Factorio](https://www.reddit.com/r/factorio/) - Reddit
-https://kirkmcdonald.github.io - Item calculator
-[Factorio Prints](https://factorioprints.com/)
-[Factorio Prints](https://www.factorio.school/) - newer Factorio School
+## Quick Links
+* [Official Factorio Wiki](https://wiki.factorio.com/)
+* [Factorio | Reddit](https://www.reddit.com/r/factorio/) - Reddit
+* https://kirkmcdonald.github.io - Item calculator
+* [Factorio Prints](https://factorioprints.com/)
+* [Factorio Prints](https://www.factorio.school/) - newer Factorio School
 
 ## Command line
 * ` to get prompt box
