@@ -18,6 +18,9 @@ All directions seem like they're seen from the center point of the body.
 ## Wrist movements
 * http://www.ergovancouver.net/wrist_movements.htm
 
+Ulnar deviation / flexion: bending the wrist to the little finger, or ulnar bone, side
+Radial deviation/flexion: bending the wrist to the thumb, or radial bone, side.
+
 # References
 * [Anatomical Terminology | SEER Training](https://training.seer.cancer.gov/anatomy/body/terminology.html)
 * https://booksite.elsevier.com/samplechapters/9780723434177/9780723434177.pdf
