@@ -15,3 +15,6 @@ When that happens, it's sensation you need to pay attention to. Focus on the pre
 Consciousness
 * all the voices in our our heads, speaking at once
 * every remembered perception
+
+# Random Thoughts
+* Not mind over body, but body over mind. Or more precisely, mind over body over mind. Using the body to influence the mind, like using longer exhales to trigger a relaxation response, or looking around when your mind is spinning anxiously and saying "None of that is happening right now."
