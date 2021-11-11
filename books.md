@@ -10,7 +10,7 @@
   * The City of Brass
   * The Kingdom of Copper
   * The Empire of Gold
-* Foundation series. Isaac Asimov. 
+* Foundation series. Isaac Asimov. *Rereading for Apple TV Foundation series*
   * Prelude to Foundation
   * Foundation
   * Foundation and Empire
