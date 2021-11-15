@@ -1,7 +1,17 @@
 # Coffee
 I love coffee.
 
-## Favorites
+## Favorite Roasters
+Local
+* [Counter Culture Coffee](https://counterculturecoffee.com/)
+* [Little Waves](https://littlewaves.coffee/)
+* [Joe Van Gogh](https://www.joevangogh.com/)
+* [Carrboro Coffee Roasters](https://carrborocoffee.com/)
+
+US
+* [The Joint Coffee Co.](https://thejointcoffee.com/)
+
+## Favorite Coffees
 * Joe Van Gogh Red River Blend ::5::
 * Carrboro Brazil (from class?) ::5:: 
 * Joe Van Gogh, Cafe Femenino (Peru) ::4.5:: 
