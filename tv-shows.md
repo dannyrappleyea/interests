@@ -5,7 +5,7 @@
 
 # Watching
 * Great British Baking Show
-* Hotel De Luna (Korean)
+* Hotel De Luna (Korean). Enjoy counting how many outfits Jang Man Wol wears each episode.
 
 # Watched
 * Squid Game
