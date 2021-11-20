@@ -108,3 +108,17 @@ Depot Logic
 
 # Expensive mode
 * https://forums.factorio.com/viewtopic.php?t=48961
+
+# DeathRibbonworld
+Trying to apply DeathWorld settings to a RibbonWorld
+
+* Resources: All 100%
+* Terrain: All 100%
+
+Enemy
+* Bases. Frequency 200%, size 200%
+* Starting area: 75%
+* Expansion: max distance 7, min group 5, max group 20, min cool 4 min, max cool 60mon
+* Evolution: time 200, destroy 200, polution 12
+
+Advanced: Absorption 50%, attack cost 50%, min damage trees 60, absorbed damaged tree 10, diffusion ratio 2%
