@@ -1,4 +1,11 @@
-# 2021
+## Books
+Grew up reading science fiction and fantasy. Still love both.
+
+## Looks interesting
+* Splintegrate. Deborah Teramis Christian.
+* The Best Science Fiction of the Year
+
+## 2021
 * Machinehood. Divya, S.B.
 * Runtime. Divya, S. B.
 * All Systems Red. Wells, Martha. *More young adult*
