@@ -16,7 +16,9 @@ All directions seem like they're seen from the center point of the body.
 * Distal - away from or farthest from the trunk
 
 ## Wrist movements
-* http://www.ergovancouver.net/wrist_movements.htm
+http://www.ergovancouver.net/wrist_movements.htm
+* flexion: bending the wrist down
+* extension: bending the wrist up
 
 Ulnar deviation / flexion: bending the wrist to the little finger, or ulnar bone, side
 Radial deviation/flexion: bending the wrist to the thumb, or radial bone, side.
