@@ -25,3 +25,8 @@ Grew up reading science fiction and fantasy. Still love both.
   * Foundation's Edge
   * Foundation and Earth
   * Forward the Foundation
+* The Interdependency Sequence. John Scalzi. *Great irreverent characters.*
+  * The Collapsing Empire
+  * The Consuming Fire
+  * The Last Emperox
+* Solaris. Stanislaw Lem. *Interesting premise, but awkwark reading.*
