@@ -30,3 +30,5 @@ Grew up reading science fiction and fantasy. Still love both.
   * The Consuming Fire
   * The Last Emperox
 * Solaris. Stanislaw Lem. *Interesting premise, but awkwark reading.*
+* A Memory Called Empire. Arkady Martine. *Elaborate world and characters. Well worth reading*
+* 
