@@ -2,6 +2,16 @@
 Grew up reading science fiction and fantasy. Still love both.
 
 ## Looks interesting
+* Klara and the Sun by Kazuo Ishiguro
+* A Psalm for the Wild-Built by Becky Chambers
+* The Last Watch (The Divide #1) by J.S. Dewes
+* Shards of Earth (The Final Architecture #1) by Adrian Tchaikovsky
+* Iron Widow (Iron Widow #1) by Xiran Jay Zhao 
+* (The Expanse Series) by James S.A. Corey
+* The Shadow of the Gods (The Bloodsworn Saga #1) by John Gwynne
+* A Deadly Education (The Scholomance #1) by Naomi Novik 
+* She Who Became the Sun (The Radiant Emperor #1) by Shelley Parker-Chan 
+* Black Water Sister by Zen Cho 
 * Splintegrate. Deborah Teramis Christian.
 * The Best Science Fiction of the Year
 
