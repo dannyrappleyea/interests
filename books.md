@@ -15,6 +15,9 @@ Grew up reading science fiction and fantasy. Still love both.
 * Splintegrate. Deborah Teramis Christian.
 * The Best Science Fiction of the Year
 
+## Not Fiction
+* In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World (2022) by Nate Anderson
+
 ## 2021
 * Machinehood. Divya, S.B.
 * Runtime. Divya, S. B.
