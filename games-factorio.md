@@ -124,3 +124,6 @@ Enemy
 Advanced: Absorption 50%, attack cost 50%, min damage trees 60, absorbed damaged tree 10, diffusion ratio 2%
 
 Note: Chances of getting all resources are pretty slim, may need to be adjusted.
+
+# Mods
+* Factorissimo2: 
