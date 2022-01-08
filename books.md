@@ -13,7 +13,6 @@ Grew up reading science fiction and fantasy. Still love both.
 * She Who Became the Sun (The Radiant Emperor #1) by Shelley Parker-Chan 
 * Black Water Sister by Zen Cho 
 * Splintegrate. Deborah Teramis Christian.
-* The Best Science Fiction of the Year
 
 ## Not Fiction
 * In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World (2022) by Nate Anderson
@@ -44,4 +43,5 @@ Grew up reading science fiction and fantasy. Still love both.
   * The Last Emperox
 * Solaris. Stanislaw Lem. *Interesting premise, but awkwark reading.*
 * A Memory Called Empire. Arkady Martine. *Elaborate world and characters. Well worth reading*
-* 
+* A Desolation Called Peace. Arkady Martine.
+* The Best Science Fiction of the Year, Vol 4. *Interesting, but I don't like short stories*
