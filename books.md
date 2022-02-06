@@ -1,4 +1,4 @@
-## Books
+# Books
 Grew up reading science fiction and fantasy. Still love both.
 
 ## Looks interesting
@@ -14,9 +14,10 @@ Grew up reading science fiction and fantasy. Still love both.
 * Black Water Sister by Zen Cho 
 * Splintegrate. Deborah Teramis Christian.
 
-## Not Fiction
+### Not Fiction
 * In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World (2022) by Nate Anderson
 
+# Books Read
 ## 2022
 * The Most Important Thing. Howard Marks. *Great financial book*
 * Common Sense on Mutual Funds. John Bogle. *A little dated, but still good.*
