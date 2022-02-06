@@ -17,6 +17,11 @@ Grew up reading science fiction and fantasy. Still love both.
 ## Not Fiction
 * In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World (2022) by Nate Anderson
 
+## 2022
+* The Most Important Thing. Howard Marks. *Great financial book*
+* Common Sense on Mutual Funds. John Bogle. *A little dated, but still good.*
+* Ninefox Gambit. Yoon Ha Lee
+
 ## 2021
 * Machinehood. Divya, S.B.
 * Runtime. Divya, S. B.
