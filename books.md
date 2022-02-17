@@ -22,6 +22,7 @@ Grew up reading science fiction and fantasy. Still love both.
 * The Most Important Thing. Howard Marks. *Great financial book*
 * Common Sense on Mutual Funds. John Bogle. *A little dated, but still good.*
 * Ninefox Gambit. Yoon Ha Lee
+* An Unkindness of Ghosts. Solomon, Rivers
 
 ## 2021
 * Machinehood. Divya, S.B.
