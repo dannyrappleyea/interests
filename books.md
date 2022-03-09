@@ -19,6 +19,9 @@ Grew up reading science fiction and fantasy. Still love both.
 
 # Books Read
 ## 2022
+* The Last Watch (The Divide Series #1). Dewes, J. S.
+* Mastering the Market Cycle. Howard Marks.
+* Trend Commandments. Michael Covel. *Didn't finish, more about day trading.*
 * The Most Important Thing. Howard Marks. *Great financial book*
 * Common Sense on Mutual Funds. John Bogle. *A little dated, but still good.*
 * Ninefox Gambit. Yoon Ha Lee
