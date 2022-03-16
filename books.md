@@ -19,6 +19,8 @@ Grew up reading science fiction and fantasy. Still love both.
 
 # Books Read
 ## 2022
+* The Money Hackers. Daniel P Simon. *Interesting history of FinTech.*
+* The Investor's Manifesto. William J Bernstein. *Nice bits on downturns and portfolio allocation*
 * The Last Watch (The Divide Series #1). Dewes, J. S.
 * Mastering the Market Cycle. Howard Marks.
 * Trend Commandments. Michael Covel. *Didn't finish, more about day trading.*
