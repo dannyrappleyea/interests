@@ -14,6 +14,10 @@ Grew up reading science fiction and fantasy. Still love both.
 * Black Water Sister by Zen Cho 
 * Splintegrate. Deborah Teramis Christian.
 
+Financial
+* Value Averaging. Edleson 
+* A random walk down Wall Street. Norton
+
 ### Not Fiction
 * In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World (2022) by Nate Anderson
 
