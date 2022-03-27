@@ -16,5 +16,6 @@ I prefer strategy, world building, and driving games.
 * [Civilization 6 Wonder Cheat Sheet](https://i.imgur.com/CFOZ56E.png)
 
 ## XCOM 2
-[Steam Community :: Guide :: Vel’s Guide To XCom 2 (Formerly “Stuff that works for me”)](https://steamcommunity.com/sharedfiles/filedetails/?id=753184780)
-https://www.digitaltrends.com/gaming/xcom-2-starting-guide/
+* Played for a bit, but got bored with it.
+* [Steam Community :: Guide :: Vel’s Guide To XCom 2 (Formerly “Stuff that works for me”)](https://steamcommunity.com/sharedfiles/filedetails/?id=753184780)
+* https://www.digitaltrends.com/gaming/xcom-2-starting-guide/
