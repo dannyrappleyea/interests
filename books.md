@@ -2,8 +2,8 @@
 Grew up reading science fiction and fantasy. Still love both.
 
 ## Reading
-* Dreamseeker. C. S. Friedman.
 * Dreamwalker. C. S. Friedman.
+* Dreamseeker. C. S. Friedman.
 * Dreamweaver. C. S. Friedman.
 * A Random Walk Down Wall Street. Burton Gordon Malkiel.
 
