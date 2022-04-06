@@ -1,6 +1,12 @@
 # Books
 Grew up reading science fiction and fantasy. Still love both.
 
+## Reading
+* Dreamweaver. C. S. Friedman.
+* Dreamseeker. C. S. Friedman.
+* Dreamwalker. C. S. Friedman.
+* A Random Walk Down Wall Street. Burton Gordon Malkiel.
+
 ## Looks interesting
 * Klara and the Sun by Kazuo Ishiguro
 * A Psalm for the Wild-Built by Becky Chambers
@@ -22,7 +28,10 @@ Financial
 * In Emergency, Break Glass: What Nietzsche Can Teach Us About Joyful Living in a Tech-Saturated World (2022) by Nate Anderson
 
 # Books Read
+Roughly reverse cronological, but keeping series together.
+
 ## 2022
+* Black Water Sister. Zen Cho.
 * The Money Hackers. Daniel P Simon. *Interesting history of FinTech.*
 * The Investor's Manifesto. William J Bernstein. *Nice bits on downturns and portfolio allocation*
 * The Last Watch (The Divide Series #1). Dewes, J. S.
@@ -32,6 +41,7 @@ Financial
 * Common Sense on Mutual Funds. John Bogle. *A little dated, but still good.*
 * Ninefox Gambit. Yoon Ha Lee
 * An Unkindness of Ghosts. Solomon, Rivers
+
 
 ## 2021
 * Machinehood. Divya, S.B.
