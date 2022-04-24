@@ -2,9 +2,6 @@
 Grew up reading science fiction and fantasy. Still love both.
 
 ## Reading
-* Dreamwalker. C. S. Friedman.
-* Dreamseeker. C. S. Friedman.
-* Dreamweaver. C. S. Friedman.
 * A Random Walk Down Wall Street. Burton Gordon Malkiel.
 
 ## Looks interesting
@@ -31,6 +28,10 @@ Financial
 Roughly reverse cronological, but keeping series together.
 
 ## 2022
+* The Dreamwalker Chronicles. C. S. Friedman. *On the young adult side, but still enjoyable.*
+	* Dreamwalker
+	* Dreamseeker
+	* Dreamweaver
 * Black Water Sister. Zen Cho.
 * The Money Hackers. Daniel P Simon. *Interesting history of FinTech.*
 * The Investor's Manifesto. William J Bernstein. *Nice bits on downturns and portfolio allocation*
