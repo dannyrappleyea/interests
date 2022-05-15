@@ -2,7 +2,7 @@
 I prefer strategy, world building, and driving games.
 
 ## Factorio
-* See [Factorio](./games-factorio.md)
+* See [Factorio](games-factorio.md)
 
 ## Civilization 6
 ### Guides

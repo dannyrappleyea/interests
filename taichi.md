@@ -11,3 +11,4 @@ http://www.openskymartialarts.com/schedule/
 http://www.magictortoise.com/classes.htm
 
 - looks like Laughing Mountain and Black Bamboo Pavilion are closely related (Violet Anderson splitting off her own studio?). Both seem sister companies to Magic Tortoise.
+- Trying https://www.laughingmountaintaiji.com/ first, via form on 5/13/2022
