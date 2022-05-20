@@ -1,4 +1,4 @@
-# *Interests* Tai Chi
+# Tai Chi
 ## Questions
 * Wudangshan 108?
 * Liuhebafa looks fun
